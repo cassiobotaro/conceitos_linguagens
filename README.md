@@ -9,6 +9,8 @@ Aqui posts referentes  a este assunto:
 
 [Tipagem](http://cassiobotaro.github.io/conceitos-linguagem-parte-1)
 
+[Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
+
 Este repositório contém o código utilizado durante a palestra com explicações sobre os tópicos.
 
 Tipagem.py
@@ -19,9 +21,14 @@ Tipagem.py
 - comparação e operadores
 - ponteiros(?)
 
+Metodos.py
+- escopo
+- passagem de parâmetro por valor ou referência?
+- namespaces
+- métodos anonimos
+- closures
+
 Em breve:
- - métodos
-    - escopo, closure e muito mais
  - sobrecarga de operadores e métodos
  - paradigma e outras peculiaridades
     - qual é o paradigma do python?
