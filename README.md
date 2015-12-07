@@ -11,6 +11,8 @@ Aqui posts referentes  a este assunto:
 
 [Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
 
+[Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
+
 Este repositório contém o código utilizado durante a palestra com explicações sobre os tópicos.
 
 Tipagem.py
@@ -28,8 +30,11 @@ Metodos.py
 - métodos anonimos
 - closures
 
+Sobrecargas.py
+- sobrecarga de operadores
+- sobrecarga de métodos
+
 Em breve:
- - sobrecarga de operadores e métodos
  - paradigma e outras peculiaridades
     - qual é o paradigma do python?
     - um pouco sobre OO
