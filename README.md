@@ -4,15 +4,15 @@ Conceitos de linguagens de programação aplicados em Python
 Palestra ministrada no XVI encontro da comunidade mineira de Python.
 
 
-![Vídeo com palestra ministrada no XVI encontro da comunidade mineira de Python.](https://www.youtube.com/watch?v=QIVzp3p8BZI)
+[Vídeo com palestra ministrada no XVI encontro da comunidade mineira de Python.](https://www.youtube.com/watch?v=QIVzp3p8BZI)
 
 Aqui posts referentes  a este assunto:
 
-![Tipagem](http://cassiobotaro.github.io/conceitos-linguagem-parte-1)
+[Tipagem](http://cassiobotaro.github.io/conceitos-linguagem-parte-1)
 
-![Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
+[Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
 
-![Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
+[Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
 
 Este repositório contém o código utilizado durante a palestra com explicações sobre os tópicos.
 
