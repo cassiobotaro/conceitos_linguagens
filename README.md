@@ -3,15 +3,16 @@ Conceitos de linguagens de programação aplicados em Python
 
 Palestra ministrada no XVI encontro da comunidade mineira de Python.
 
-Em breve terá um vídeo aqui.
+
+![Vídeo com palestra ministrada no XVI encontro da comunidade mineira de Python.](https://www.youtube.com/watch?v=QIVzp3p8BZI)
 
 Aqui posts referentes  a este assunto:
 
-[Tipagem](http://cassiobotaro.github.io/conceitos-linguagem-parte-1)
+![Tipagem](http://cassiobotaro.github.io/conceitos-linguagem-parte-1)
 
-[Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
+![Métodos](http://cassiobotaro.github.io/conceitos-linguagem-parte-2)
 
-[Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
+![Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
 
 Este repositório contém o código utilizado durante a palestra com explicações sobre os tópicos.
 
@@ -34,12 +35,10 @@ Sobrecargas.py
 - sobrecarga de operadores
 - sobrecarga de métodos
 
-Em breve:
- - paradigma e outras peculiaridades
-    - qual é o paradigma do python?
-    - um pouco sobre OO
-    - programação funcional
-    - co-rotinas 
+Paradigmas.py
+- programação imperativa
+- programação funcional
+- Orientação a objeto
 
 Caso algo não esteja devidamente explicado, por favor reporte abrindo uma issue que farei o aprimoramento da explicação.
 
