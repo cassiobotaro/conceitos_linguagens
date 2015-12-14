@@ -14,6 +14,8 @@ Aqui posts referentes  a este assunto:
 
 [Sobrecargas](http://cassiobotaro.github.io/conceitos-linguagem-parte-3)
 
+[Paradigmas](http://cassiobotaro.github.io/conceitos-linguagem-parte-4)
+
 Este repositório contém o código utilizado durante a palestra com explicações sobre os tópicos.
 
 Tipagem.py
@@ -38,7 +40,7 @@ Sobrecargas.py
 Paradigmas.py
 - programação imperativa
 - programação funcional
-- Orientação a objeto
+- orientação a objeto
 
 Caso algo não esteja devidamente explicado, por favor reporte abrindo uma issue que farei o aprimoramento da explicação.
 
